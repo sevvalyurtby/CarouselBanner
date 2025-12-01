@@ -1,5 +1,5 @@
 if (jQuery("#splide").length <= 0) {
-  var link = '/Users/sevvalkutlu/Documents/GitHub/CarouselBanner/CarouselBanner.json';
+  var link = './CarouselBanner.json';
   var text = ``;
   var text1 = ``;
   var deneme = ``;
